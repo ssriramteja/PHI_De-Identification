@@ -8,6 +8,7 @@ A modular, hybrid pipeline for detecting and masking Protected Health Informatio
 - **Flexible Masking Strategies**: Supports generic tag masking (`[LABEL]`) and pseudonymization via surrogate generation (`[LABEL_001]`).
 - **Extensible Architecture**: Decoupled modules for rules, models, and merging logic allow for easy integration of clinical-specific models (e.g., ScispaCy).
 - **Control Interface**: Includes both a professional CLI for batch processing and a Streamlit-based dashboard for real-time validation.
+- **Live Demo**: [Access the deployed application here](https://phide-identification-qb3d7phicrdepjaweeixuw.streamlit.app/)
 
 ## Project Structure
 

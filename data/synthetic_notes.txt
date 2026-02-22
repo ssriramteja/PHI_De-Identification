@@ -1,0 +1,45 @@
+NOTE_ID: 1
+PATIENT_NAME: John Smith
+DOB: 03/12/1959
+MRN: 1234567
+ADDRESS: 123 Main Street, Boston, MA 02118
+PHONE: (555) 123-4567
+EMAIL: john.smith@example.com
+HOSPITAL: UNC Hospital
+
+TEXT:
+John Smith is a 65-year-old male from Boston, MA who presented to UNC Hospital on 03/12/2024 with chest pain.
+He was admitted under Dr. Emily Johnson and assigned MRN 1234567.
+He can be reached at (555) 123-4567 or via email at john.smith@example.com.
+---
+
+NOTE_ID: 2
+PATIENT_NAME: Maria Garcia
+DOB: 11/05/1984
+MRN: 9876543
+ADDRESS: 456 Oak Ave, Raleigh, NC 27601
+PHONE: 919-555-9876
+EMAIL: maria.garcia@example.org
+HOSPITAL: Duke Raleigh Hospital
+
+TEXT:
+Maria Garcia, born on 11/05/1984, was seen at Duke Raleigh Hospital in Raleigh, NC for uncontrolled diabetes on 02/20/2024.
+Her medical record number is 9876543.
+Contact phone number documented as 919-555-9876.
+---
+
+NOTE_ID: 3
+PATIENT_NAME: David Lee
+DOB: 07/21/1972
+MRN: A123-45-6789
+ADDRESS: 789 Pine Road, Charlotte, NC 28202
+PHONE: +1-704-555-1212
+EMAIL: david.lee72@healthmail.com
+HOSPITAL: Atrium Health
+
+TEXT:
+David Lee is a 51-year-old male followed at Atrium Health in Charlotte, North Carolina.
+He presented on 01/15/2024 with shortness of breath.
+His SSN-like identifier A123-45-6789 appears in older records.
+He can be contacted at +1-704-555-1212 or via david.lee72@healthmail.com.
+---
